@@ -1,0 +1,8 @@
+Origin: Sonolus
+Label: Buritto
+Suite: stable
+Version: 1.0
+Codename: Sonolus
+Architectures: iphoneos-arm
+Components: main
+Description: Sonolus

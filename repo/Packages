@@ -1,0 +1,68 @@
+Package: com.Burrito.Sonolus
+Architecture: iphoneos-arm
+Version: 0.5.13
+Section: Application
+Maintainer: Burrito
+Installed-Size:
+Depends: firmware (>= 11.0)
+Filename: ./debs/Sonolus.deb
+Size: 24615352
+MD5sum: 719b0eaf1b95d3da0ac20666223e232a
+SHA1: 92848452dcb62bb4b692651003f7d613dff32e28
+SHA256: f3a660cadb0debebdeda853fc4c825dfaf62b3591269bc11134965e637cb37c8
+SHA512: dcb8d4c3a04436d2a4a5cd266cc45d0c5762e790d4a7183fb0948a364b3676579b0681f9dfca1d75e1147fefd04350883b2a3b1aefd2fe56faa77df87c9abb92
+Description: Sonolus is a next generation Mobile Rhythm Game that aims to provide maximum freedom to players and level makers.
+Name: Sonolus
+Icon: https://sonolus.com/res/icon.png
+
+Package: com.4nni3.coolcc
+Architecture: iphoneos-arm
+Version: 1:4.0
+Section: Tweaks
+Maintainer: 4nni3 <4nni3.14@gmail.com>
+Installed-Size: 328
+Depends: mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.4nni3.coolcc_4.0_iphoneos-arm.deb
+Size: 40520
+MD5sum: 66811d69c77cea88041cd61ba4da55c6
+SHA1: ffc6c9cd6c692b5ce461a23b5d880c0e8da24849
+SHA256: e8b779cc1f3c0580dc0b08a8cb2468a2ab17c486b39b4eac0c1d01b63406adb4
+SHA512: 273915c3a624e069ed7ef876ab338d39d1d828441ed6ee467c653531d572bd0eecedcd1e1b47a00caf11b1adff0ac41fdae990ef75954604bf3f5b56a200b66a
+Description: Makes ControlCenter cool.
+Name: CoolCC
+Author: 4nni3 <4nni3.14@gmail.com>
+
+Package: com.4nni3.coolfolder
+Architecture: iphoneos-arm
+Version: 2.7-2
+Section: Tweaks
+Maintainer: 4nni3 <4nni3.14@gmail.com>
+Installed-Size: 448
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker
+Filename: ./debs/com.4nni3.coolfolder_2.7-2_iphoneos-arm.deb
+Size: 45336
+MD5sum: e68db65ae2bb6cb5dd6af3491b513650
+SHA1: 397e02af372e3cdfac06b335bad9a9d37df42876
+SHA256: c0ef6a4cb6a3267bfda15f36a918c7bd7307e34f62d641a2feddb10eddf65485
+SHA512: 21e82da15e17e29303e73d4670137058bd42cbe53d9dbf58c23dbe72f8580b327fd57b50e8d48acceccae1e5c65f247b772e4c694e92d74013fc759a37579074
+Description: Makes folder icon cool.
+Name: CoolFolder
+Author: 4nni3 <4nni3.14@gmail.com>
+
+Package: us.sudhip.sendtodesktop
+Architecture: iphoneos-arm
+Version: 2.0.0
+Section: Tweaks
+Maintainer: sunflsks
+Installed-Size: 12
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3), com.muirey03.libmryipc
+Filename: ./debs/us.sudhip.sendtodesktop.deb
+Size: 1007846
+MD5sum: ccf09b8d4a2de8f20d1875dcd0830716
+SHA1: 8257c0a7ddeac9ade7220384aa514858a59fec7b
+SHA256: 0fffaa976a4b4d6eb15441b8d9dca464366cc7c948003982d00f1cd2be6d9f52
+SHA512: d9c319bc77ce8d5d6b1f05394f1bf1632ee139d30c0079ed6c1b07aff7492fb7549a3b6f8125cdffca689e863271a5c0600a27b05e56648d773ef6f19889bee4
+Description: Send files from your phone to your PC
+Name: SendToDesktop
+Icon: http://ftp.sudhip.com/jbrepo/assets/sendtodesktop.png
+

@@ -1,3 +1,19 @@
+Package: com.Burrito.Sonoluspermanent
+Architecture: iphoneos-arm
+Version: 0.5.13
+Section: Applications
+Maintainer: Burrito
+Depends: firmware (>=14.0)
+Filename: ./debs/Sonolus-permanent.deb
+Size: 24763796
+MD5sum: ed1345c6253c3943b910dd9b33b0d199
+SHA1: a0aa33af37e77a4d6dccffe14281728f92a469b2
+SHA256: 9c3a78ac7db117e4e61da8c22dee9c45b57194228fbd87c2364268c78899884c
+SHA512: 4bade3d4c0d64f4450b22b38c70ce50bef88c2b0e07d7417530fe5457307503dc651da511e127d45eef2a9aa1eeab3226586dc2be4a5d32c01b28f4d22a8e920
+Description: Sonolus is a next generation Mobile Rhythm Game that aims to provide maximum freedom to players and level makers.
+Name: Sonolus-permanent
+Author: Burrito
+
 Package: com.Burrito.Sonolus
 Architecture: iphoneos-arm
 Version: 0.5.13
